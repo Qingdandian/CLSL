@@ -96,3 +96,6 @@ python infer.py --exp-dir experiments/sarlp_voc2007/exp58
 }
 
 ```
+
+## Acknowledgement
+We would like to thank Xuelin Zhu for providing code for [SGRE](https://github.com/jasonseu/SGRE). We borrowed and refactored a large portion of his code in the implementation of our work.
